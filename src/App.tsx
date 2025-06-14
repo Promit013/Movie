@@ -1,4 +1,4 @@
-import React from "react"
+
 import {Route,Routes } from "react-router-dom"
 import Home from "./Components/Home"
 import SingleMovie from "./Components/SingleMovie"
